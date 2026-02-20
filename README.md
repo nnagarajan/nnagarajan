@@ -13,8 +13,6 @@ I’m currently building and contributing to projects that span:
 
 💡 **Highlights from My Work**
 
-📦 **Featured Projects**
-
 - **chain-treasury-auction** – Smart contract for treasury bond auctions using Solidity.
 - **gg-custom-formatters** – Custom GoldenGate transactional formatters to extend and enhance CDC workflows in Java.
 - **DNNLOB-FA800** – Deep neural network model for financial time-series forecasting and execution strategies.
