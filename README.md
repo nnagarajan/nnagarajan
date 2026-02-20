@@ -12,6 +12,7 @@ I’m currently building and contributing to projects that span:
 - **Applied deep learning in domain-specific contexts**
 
 💡 **Highlights from My Work**
+
 📦 **Featured Projects**
 
 - **chain-treasury-auction** – Smart contract for treasury bond auctions using Solidity.
