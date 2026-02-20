@@ -1,4 +1,4 @@
-👋 Hi, I’m @nnagarajan
+👋 **Hi, I’m @nnagarajan**
 
 Software engineer with a focus on data engineering, scalable systems, and applied machine learning. I build and open-source tools and frameworks that help teams streamline data pipelines, enhance observability, and solve real-world problems across the data stack.
 
